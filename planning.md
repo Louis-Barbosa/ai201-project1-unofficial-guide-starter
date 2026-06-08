@@ -9,7 +9,7 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? --> #My domain is on Princeton University's MAT (Math) Major and Mat Department/Courses. While there is good information on the university's pages learning about student's opinions and experiences provides more realisitic information that's not usualy found on official pages. -> might need to change sourses 1-3.
 
 ---
 
@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 |Princeton |Description of MAT major |https://www.math.princeton.edu/undergraduate/majors/overview  |
+| 2 |Princeton |MAT major requirments | https://www.math.princeton.edu/undergraduate/requirements|
+| 3 |Princeton | MAT courses available | https://www.princeton.edu/academics/area-of-study/mathematics|
+| 4 |Quora |MAT major typical four years |https://www.quora.com/For-a-pure-math-major-at-Princeton-what-is-a-typical-four-year-course-structure|
+| 5 |Reddit |Opions on Math Major at Princeton |https://www.reddit.com/r/princeton/comments/6577md/the_math_major_at_princeton/|
+| 6 |Reddit |MAT placement exam |https://www.reddit.com/r/princeton/comments/1s16ny8/math_placement/ |
+| 7 |Quora|Opinion on MAT major difficulty |https://www.quora.com/What-is-it-like-to-study-mathematics-at-Princeton |
+| 8 |Quora|Difficulty of Math Major |https://www.quora.com/How-hard-is-it-to-be-a-math-major-at-Princeton |
+| 9 |Quora |Quality of Princeton Math Department |https://www.quora.com/How-good-is-Princeton-at-math |
+| 10 |Quora |Comparing Princeton Math to other Universities |https://www.quora.com/For-a-math-major-which-school-is-better-MIT-Princeton-or-Harvard |
 
 ---
 
