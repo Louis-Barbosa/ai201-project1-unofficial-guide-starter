@@ -1,0 +1,74 @@
+Princeton is one of the world’s leading institutions for mathematics—strong across research, faculty quality, graduate training, and mathematical culture. Key points:
+
+Reputation and rank
+
+Consistently ranked among the global top mathematics departments (peer institutions include Harvard, MIT, Stanford, Berkeley, and Oxford/Cambridge).
+Particularly renowned in pure mathematics fields: number theory, algebraic geometry, topology, differential geometry, mathematical physics, and representation theory.
+Faculty and research strength
+
+A concentration of Fields Medalists, Abel Prize winners, and other top prize recipients have been on or affiliated with the faculty.
+Faculty are leaders in both deep theory and areas that bridge to physics and computer science (e.g., quantum field theory, geometric analysis, theoretical CS-related math).
+Active research groups and strong seminar series (Princeton Mathematics, IAS interactions, joint programs).
+Graduate program
+
+Highly selective PhD program with strong funding, low student-to-faculty ratio, and numerous research opportunities.
+Rigorous qualifying/first-year training, with personalized thesis advising and many postdoctoral-in-residence opportunities.
+Excellent placement record for PhD graduates into research universities, national labs, industry, and finance.
+Undergraduate program and culture
+
+Undergraduate curriculum offers rigorous core courses (analysis, algebra, topology) and advanced electives; strong support for independent study and senior theses.
+Small department size yields close faculty interaction; many undergraduates take research-level topics and attend seminars.
+Vibrant problem-solving culture (informal problem sessions, Putnam training historically strong).
+Collaborations and environment
+
+Close intellectual ties with the Institute for Advanced Study (IAS), physics, economics, computer science, and engineering.
+Frequent workshops, conferences, and visiting scholars that enhance exposure to cutting-edge work.
+Strong library and computational resources.
+Career outcomes and prospects
+
+Graduates have excellent prospects in academia and industry; the department’s prestige opens doors for postdocs, tenure-track positions, and quantitative roles in finance and tech.
+Networking with leading mathematicians and collaborative projects increases visibility for early-career researchers.
+Limitations and considerations
+
+Very small department community relative to large state schools; some subfields may be thin depending on current faculty hires.
+Extremely competitive admissions and coursework; success requires strong mathematical background and independence.
+If your interest is applied math in engineering-heavy areas, other departments (applied math at some universities, engineering schools) might offer broader course offerings.
+Summary
+Princeton offers world-class mathematics training and research, exceptional faculty, and a high-impact intellectual environment—especially suited to students aiming for research careers in pure and theoretical mathematics or high-level applied/theoretical cross-disciplinary work.
+For grad school it's great the grad program is ranked 1st in the U.S tied with MIT. There's a difference between the 2 though I get to but first here's some famous math alumni. Several notable students from math department are John Nash (movie a beautiful mind Russell Crowe played him), he basically rewrote economic theory and his ideas applied to other fields like biology, sociology etc., far beyond economic theory. Alan Turing (another movie as well, the imitation game) about Turing who broke the German Enigma code machine and helped end ww2. He also had the idea for first computer and many other things. Another prof. is Andrew Wiles who was there when I was and made his discovery a year before I started. He solved Fermat's last theorem. It's a simple problem that you've seen a version of. The Pythagorean theorem x2 + y2 = z2 (x2 is x**2, x squared just easier to write my way) is a special case of Fermat's theorem. He asked does xn + yn = zn for all n. It works for n=2 but how about all n. Wile solved it. Other famous people went as well which you can look up.
+
+I went for chemistry PhD and like all the schools you must take 4 to 6 courses plus teach then do your dissertation. Math is different though. At Princeton there are no formal course requirements which means if you're that smart you can submit a topic and do a dissertation but that's unlikely. I think that's still the same as when I was There, as it has been like that for some time. You're going to want to likely take classes though so not only can you decide on a thesis topic but also to know professors who will be helpful in the future for jobs.
+
+As I said earlier there is a difference but this is only if your talking undergrad. Again both are top schools for a math major. However, Princeton like most other colleges makes you take courses outside your major like history, psych, political science, lit, etc. MIT is a tech school so while you may have to take other courses as well the focus is on STEM science, tech, engineering, and math. You'll get great education at both as undergrads but Princeton will, inn my opinion, give you a more well rounded education. You'll get the same great math at either but being well rounded is important.
+
+So for grad school, both are ranked tied for 1st and if admitted they will pay for you to visit and stay overnight. They cover all costs and you can see the area meet prof that you might want to work with(usually you meet with 3 based on what you want to focus on for PhD)
+
+I've been to both and Princeton is a beautiful campus. MIT backs right up to Harvard which is ranked right after Princeton and MIT. But I think while MIT has a nice campus Princeton is much nicer.
+
+You won't go wrong at either. I can give better info if I know if your looking for undergrad(BS) or grad (PhD, certain schools grad programs don't offer terminal MS degrees so check that as well. I know in applied to all the top schools and got in all and the chemistry grad depts. only offered a PhD)
+
+So the answer to how good is Princeton at math, it's the best. That's the short answer. Feel free to ask for more info and check rankings from usnews and other sources. I hope that helped.
+At the graduate level, Princeton is arguably the top school in the US in pure math. However, if you already know your area and Princeton does not have strength in it, you may well consider applying elsewhere (but don’t go below the top schools if you can go to Princeton).
+
+At the undergraduate level there are many more alternatives. How good you are matters more than where you went to school, because basic curriculum is rather standard everywhere and it is not impossible to go in more depth on your own. For example, a California resident can get just as good a math education at UC Berkeley at a fraction of the cost.
+Princeton has one of the top math departments in the world, the current faculty has several Fields Medal winners and the math department has had several Nobel Prize winners in the past, the most famous perhaps being John Nash of “A Beautiful Mind” fame.
+
+What many people don’t know is that Princeton’s math department while good, was not world class until the 1930s and 40s when Oswald Veblen and a few other professors worked to save hundreds of refugees from the Nazi’s and welcomed some of the leading math & physics scholars to Princeton and the Institute for advanced study from Germany, Austria and other parts Europe. Princeton’s openness in accepting and hiring Jewish faculty at a time when anti-Jewish sentiment was rampant amongst top US Universities helped set it apart from other Ivy League schools and created a Juggernaut of a Math Department.
+
+I know it hasn’t gotten easier, and it was so tough when I was there I nearly dropped out — but switched majors instead.
+
+I was going to be a high school math teacher. I took calculus in my junior year and got 790 (out of 800) on my Math Level II college board achievement test. Missed a question on logarithms.
+
+So I figured I would start at Princeton in the advanced intro calc class. Big mistake. So I dropped down to the 101 course, and it was still incredibly difficult. I got a D. I did even worse in 102, when we took up integration. Isaac Asimov notes in his autobiography that he too flunked out on math when it got to integration. It is a different kind of logic than found in algebra and certainly what is found in formalized Euclidean geometry. I got a D there too.
+
+Then I took a course in geometry from A. W. Tucker, perhaps the department’s eminence grise. It was fantastic. He was a terrific instructor and we learned about all sorts of different geometries and how they related. I got an A for the course — he gave me 99% on my final, with 1 point off for spelling Apollonius wrong. I was glad to take that 1 point deduction — I thought it amusing.
+
+With that under my belt, I took linear geometry. What a mistake. Like nothing I had ever studied before. It was all about proofs and arrays, and I didn’t understand it. I was used to calculation. It was the same roadblock as in integration. I am sure I was flunking toward the end of the course. I really buckled down and studied. And I got to the end of the book and they introduced this concept called the determinant, and it all fell into place. If they had intro’d that in the first chapter, I would have aced the course. Bad pedagogy. But I did ace the final and got a C for the course and was happy.
+
+At the time, I was hoping to be a math teacher, as mentioned. You needed six courses for a certificate, and I had tapped out. So junior year I took a course cross listed in philosophy, which I had chosen as my major that year. I did mediocre and even worse in intermediate logic and dropped the idea of being a math teacher — I decided to take up my other muse and be a journalist.
+
+There is not much of a market for mathematicians, or at least there wasn’t during those days before the advent of the quants. (My nephew is a quant.) I am glad I became a journalist. I would have made a good teacher but a poor member of a high school faculty — too regimented. So it all worked out.
+
+At the top; historically and at present one of the best programs in the world, both at the undergraduate and graduate level.
+
+There is also the considerable pleasure of living and studying at one of the most interesting and beautiful universities in the world.

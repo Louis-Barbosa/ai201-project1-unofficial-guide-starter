@@ -1,0 +1,119 @@
+The math major is one of the most flexible majors (in terms of requirements) at Princeton and so accordingly the course structure of a math major is highly dependent on his or her interests.
+
+You are required to take 8 departmental courses of which you need one of Real Analysis, Complex Analysis, Algebra and Geometry or Discrete Math. Of the remaining classes, 3 can be cognate courses from another department.
+
+Additionally the formal independent work requirements consist of either a junior seminar and a junior paper or two junior seminars, one in each term of the junior year and a senior thesis in the final year.
+
+Thus a typical four year schedule will include:
+
+Freshman Year: MAT 215 and MAT 217
+Sophomore Year: A combination of classes in fields of interest and maybe one or two core requirements (I satisfied Complex Analysis in the Fall and Discrete Math in the Spring)
+Junior Year: A seminar or paper each semester
+Senior Year: A Senior thesis
+Besides the framework above, typical course structure will vary based on student interest. If you’re more inclined towards Analysis you might take 1 analysis class every semester starting sophomore year and spread out fulfilling the core requirements over several years. Alternatively you might finish the 4 core requirement classes sophomore year and then focus on taking classes in your interest area all of Junior and Senior year.
+
+
+It depends on how sure you are that you want to be a math major.
+
+General facts:
+
+The Princeton math department is very elite— top 10 in the country.
+Princeton in general tends to put a lot of resources into undergrad compared to other schools, so you’ve got that going for you too.
+My experience:
+
+Started with the idea of doing a math major, for no reason other than that I was “good at math” in high school. I’d done AIME and ARML (badly) but I wasn’t USAMO material.
+Took multivariable calculus, a 200-level course, my first semester, with a class of mostly non-math-majors (science, engineering, econ, etc.). It went fine. Non-major-track courses don’t get as much attention from the department, so it was a little meh.
+Signed up for major-track courses at the 200-level (analysis and linear algebra if I remember right) the next two semesters. Wow, that was painful. The content was all proofs, nothing like my high-school experience or even multivariable. I struggled hugely with the coursework and watched as other students apparently breezed through. I later heard that the department uses these as “filter” courses and they’re designed to be the hardest ones.
+Realized that high-level math was frustrating and not rewarding for me. Switched to computer science, which was a lot more fun and frankly a better fit for what I thought were my “math skills”. (Princeton’s CS department is also top 10 in the country and is a lot more welcoming.)
+So, in summary: if you have reason to believe that you can handle and enjoy pure math, then the Princeton undergrad department will be excellent for you. Otherwise, be prepared to be pushed toward more “applied” majors as part of a quasi-deliberate departmental strategy to keep out the riffraff.
+
+So I’d say it’s certainly challenging but far from impossible. If you’re willing to put in the effort, it can be an extremely rewarding major.
+
+However, there are several things one should consider when thinking about the department:
+
+MAT 215 and MAT 217 are the intro courses and often people have a lot of difficulty with them simply because it’s their first introduction to proof based mathematics —-> achieving mathematical maturity takes a fair amount of effort but with enough time and practice it can be easily learned.
+The department’s focus is mainly on pure mathematics and the major requirements reflect this (you’ll have to learn some Real Analysis, Complex Analysis, Algebra, Geometry or Discrete Math), however there is a lot of room to take more applied math courses in other departments (such as ORFE , COS or ECON) and have them count towards your major. Additionally many majors (including me) end up writing Senior theses with professors in other departments (while having the second reader in the math department).
+The department has a bit of a sink or swim attitude which means that you have to be quite self-motivated to do well. The courses are reasonably well structured, but will certainly vary in content from year to year depending on who’s teaching. This is in stark contrast to some other departments such as COS where the courses are highly structured and there is a clear cut path to go from no programming experience to taking advanced courses.
+Being an exceptionally high caliber department, some of the course offerings are quite challenging (none of these are in any way mandatory) but all this means is that you should accordingly adjust your schedule that semester, taking into account the fact that you’ll be spending most of your time on the one class.
+In recent years, as a result of student suggestions, the department has made an effort to be more welcoming and accessible to potential math majors. An excellent resource that I’d highly recommend looking at is - Guide for Math Students
+
+A typical four-year course plan for a pure mathematics major at Princeton balances core theory courses, advanced electives, qualifying exams (if applicable), senior requirements (senior thesis or independent work), and appropriate breadth (computer science/physics/analysis/logic) and depth. Below is a representative sequence aligned with Princeton’s curriculum patterns (reflecting information current through May 2024) and common successful student choices. This is a template — actual choices depend on placement, interests, and departmental changes.
+
+Year 1 — Foundations and breadth
+
+Fall
+Calculus sequence start or placement-appropriate calculus (Math 103/104 or placement into 201-level)
+Introductory proof course / transition to higher math (MAT 203/205-like: “Introduction to Mathematical Reasoning” / “Real Analysis I” if placed)
+Introductory physics or computer science (strongly recommended for breadth)
+First-year writing or distribution requirement
+Spring
+Continuation of calculus or multivariable/linear algebra (Math 201/202 or Linear Algebra if not already taken)
+Introduction to proof/linear algebra if not yet taken (e.g., Math 210/340 depending on catalog)
+Elective in CS, physics, or statistics
+Distribution requirement / language
+Goals: complete calculus sequence (if needed), solidify proof skills, take linear algebra and an introduction to analysis or algebra depending on placement; start fulfilling distribution requirements.
+
+Year 2 — Core theory courses
+
+Fall
+Real Analysis I (Math 310/320 style) — rigorous single-variable analysis
+Abstract Algebra I (groups, rings) — first course in algebra sequence
+Elective (topology, differential equations, or CS)
+Spring
+Real Analysis II or Measure Theory / Advanced Calculus
+Abstract Algebra II (modules, field extensions, Galois theory intro)
+Linear Algebra (if not completed) or Topology I (point-set/topology)
+Elective or research seminar
+Goals: complete the two pillars—analysis and algebra—at a rigorous level; begin topology and pick one applied/theory elective.
+
+Year 3 — Upper-level breadth and beginning specialization
+
+Fall
+Topology / Algebraic Topology or Differential Geometry (depending on interest)
+Complex Analysis or Functional Analysis
+Advanced Algebra topics (Galois theory, commutative algebra) or seminar
+Spring
+Functional Analysis or Partial Differential Equations (for analysis track)
+Algebraic Geometry or Representation Theory (for algebra/geometry track)
+Undergraduate seminar or reading course
+Begin planning senior thesis (topic, advisor)
+Goals: explore advanced fields, take courses that develop tools for research (functional analysis for analysis; homological algebra for algebra/geometry; PDE/geometry if geometric analysis).
+
+Year 4 — Specialization, research, and synthesis
+
+Fall
+Specialized electives aligned with thesis (e.g., Riemannian Geometry, Algebraic Geometry, Analytic Number Theory, Ergodic Theory)
+Senior thesis research (independent study or math 499-style)
+Advanced seminar (topics course, reading group)
+Spring
+Continue and complete senior thesis
+One or two final advanced electives / qualifying preparation (if pursuing graduate school)
+Present thesis at departmental forum or senior symposium
+Goals: complete thesis, consolidate a coherent body of coursework in chosen specialty, prepare application materials or postgraduate plans.
+
+Typical required/strongly recommended courses and milestones (Princeton-specific patterns)
+
+Core: rigorous Real Analysis sequence and Abstract Algebra sequence.
+Supporting: Linear Algebra; Point-set Topology; Complex Analysis; Differential Equations/PDE or Probability/Statistics if interested.
+Advanced options: Functional Analysis, Algebraic Geometry, Representation Theory, Algebraic Topology, Differential Geometry, Analytic Number Theory, Ergodic Theory.
+Senior requirement: independent work (senior thesis) under faculty supervision is standard for math majors at Princeton.
+Placement: incoming students with AP/IB or transfer credits often place into higher-level courses; choose proof-based intro if not ready for 300-level analysis/algebra.
+Additional advantages: take CS 126/226 (algorithms, data structures) or physics courses to broaden career/grad-school options; attend departmental seminars and participate in reading groups.
+Typical course load and pacing
+
+4–5 courses per semester typical: at least two math core/theory courses in sophomore and junior years; senior year often reduces course count to accommodate thesis.
+Balance rigorous math with 1–2 non-math courses each term for breadth requirements and mental variety.
+Use one term for concentrated research or a study-abroad semester only after completing core prerequisites.
+Examples of coherent tracks (typical student stories)
+
+Pure analysis track: Real Analysis I–II, Measure Theory, Functional Analysis, PDE, Riemannian Geometry; senior thesis on spectral theory.
+Algebra/geometry track: Abstract Algebra I–II, Commutative Algebra, Algebraic Geometry, Representation Theory, Topology; thesis on curves or group actions.
+Interdisciplinary track: Core math plus CS/physics: Algorithms, Probability, Mathematical Statistics, Mathematical Physics; thesis applying analysis to PDE in physics.
+Practical tips
+
+Use year 1 to secure strong proof-writing skills; enroll in the departmental intro-to-proof course if uncertain.
+Plan prerequisites early: topology and algebra often require analysis/linear algebra prerequisites.
+Begin thesis planning in late junior year; identify advisors in fields where you have taken intermediate courses.
+Attend colloquia and read current preprints to find thesis topics and advisors.
+If aiming for graduate school, include at least one rigorous breadth course from both algebra and analysis, and take qualifying-mimicking coursework (e.g., measure theory + complex analysis + algebra).
+This template should be adapted to placement results, transfer credits, and evolving departmental offerings; the core remains: early proof training, two rigorous pillars (analysis and algebra), targeted advanced electives by junior year, and a senior thesis tying coursework into original or expository research.

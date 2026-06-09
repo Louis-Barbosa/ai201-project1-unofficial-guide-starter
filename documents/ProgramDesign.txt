@@ -1,0 +1,66 @@
+Princeton’s math major is demanding but also highly structured and well-supported; difficulty depends on preparation, goals, and how you use available resources. Below are the concrete elements that determine how hard it feels and practical ways students succeed.
+
+What makes it hard
+
+Rigor and abstraction: Courses emphasize proof-writing, abstraction, and generality (real analysis, algebra, topology). Computational manipulation alone is insufficient.
+Fast pace: Quarter/semester pacing covers dense material quickly; problem sets are time-consuming and often require original thought.
+Competitive environment: Peers are strong mathematically; grading curves and high-achieving classmates raise standards (though collaboration is common and encouraged where permitted).
+Depth of upper-level electives: Advanced topics (algebraic geometry, functional analysis, category theory, advanced combinatorics) demand substantial background and independent reading.
+Research expectations for honors: Honors thesis or independent projects require initiative, literature reading, and sustained work under faculty supervision.
+What makes it manageable
+
+Well-designed curriculum: Core courses (analysis sequence, linear algebra/ODEs, algebra, topology, probability and combinatorics options) build skills progressively.
+Generous support network: Problem-solving sessions, recitations, office hours, departmental helprooms, study groups, and peer tutors are abundant.
+Accessible faculty: Many professors are engaged with undergraduates and supervise theses or independent work.
+Flexible paths: Non-honors, 4-course major, and honors tracks let students balance depth vs. breadth. Strong advising helps tailor difficulty.
+Co-curricular opportunities: Putnam training, reading groups, seminars, and applied math resources let students focus on interests (pure vs. applied).
+Typical workload and timeline
+
+Lower-division (first two years): 3–4 core courses per semester plus problem sets; expect 15–25 hours/week outside class when taking rigorous sequences.
+Upper-division: 3–4 advanced courses per semester or 2–3 plus research; independent reading and thesis work can push outside time higher during concentrated periods.
+Peak times: Midterms and problem-set deadlines concentrate workload; collaborative planning reduces surprises.
+Who thrives and who struggles
+
+Thrives: Students with strong calculus/linear algebra background, facility with proofs, intellectual curiosity, good time management, and willingness to use support resources.
+Struggles: Those relying solely on computational skills without developing proof techniques, or students who avoid office hours and collaboration when stuck.
+Practical tips to succeed
+
+Build proof skills early: Take intro to proofs or bridge courses, and do every proof problem thoroughly.
+Use office hours and helprooms weekly; bring attempted solutions, not just questions.
+Form small, consistent study groups for problem sets and concept checks.
+Balance course load: mix a challenging theory course with an applied/less abstract course when possible.
+Read solutions and model proofs to learn common methods; rewrite proofs in your own words.
+Plan for summers: internships, REUs, or research can deepen understanding and ease thesis work later.
+Consider the major track that fits goals: honors only if you want/need depth and thesis experience.
+Outcome and payoff
+
+Intellectual rigor prepares students for graduate study, research, finance, software, and quantitative careers.
+A Princeton math degree is demanding but highly rewarding for those who engage actively with the material and resources.
+Summary
+Princeton math is challenging in rigor and pace but structured with significant support. The perceived difficulty depends primarily on prior proof experience, study habits, and willingness to use faculty and peer resources. With deliberate preparation and consistent work, most capable students succeed and find the major intensely rewarding.
+
+I know it hasn’t gotten easier, and it was so tough when I was there I nearly dropped out — but switched majors instead.
+
+I was going to be a high school math teacher. I took calculus in my junior year and got 790 (out of 800) on my Math Level II college board achievement test. Missed a question on logarithms.
+
+So I figured I would start at Princeton in the advanced intro calc class. Big mistake. So I dropped down to the 101 course, and it was still incredibly difficult. I got a D. I did even worse in 102, when we took up integration. Isaac Asimov notes in his autobiography that he too flunked out on math when it got to integration. It is a different kind of logic than found in algebra and certainly what is found in formalized Euclidean geometry. I got a D there too.
+
+Then I took a course in geometry from A. W. Tucker, perhaps the department’s eminence grise. It was fantastic. He was a terrific instructor and we learned about all sorts of different geometries and how they related. I got an A for the course — he gave me 99% on my final, with 1 point off for spelling Apollonius wrong. I was glad to take that 1 point deduction — I thought it amusing.
+
+With that under my belt, I took linear geometry. What a mistake. Like nothing I had ever studied before. It was all about proofs and arrays, and I didn’t understand it. I was used to calculation. It was the same roadblock as in integration. I am sure I was flunking toward the end of the course. I really buckled down and studied. And I got to the end of the book and they introduced this concept called the determinant, and it all fell into place. If they had intro’d that in the first chapter, I would have aced the course. Bad pedagogy. But I did ace the final and got a C for the course and was happy.
+
+At the time, I was hoping to be a math teacher, as mentioned. You needed six courses for a certificate, and I had tapped out. So junior year I took a course cross listed in philosophy, which I had chosen as my major that year. I did mediocre and even worse in intermediate logic and dropped the idea of being a math teacher — I decided to take up my other muse and be a journalist.
+
+There is not much of a market for mathematicians, or at least there wasn’t during those days before the advent of the quants. (My nephew is a quant.) I am glad I became a journalist. I would have made a good teacher but a poor member of a high school faculty — too regimented. So it all worked out.
+
+Not that hard. It’s all just undergraduate work. It gets harder when you take some graduate courses, of
+
+which I took so many that a subsequent report on overconcentration accused me of missing out on a liberal education by rushing headlong into career training. Nobody noticed that by then I was in law school (Harvard no less, thanks to my good grades in math). :-)
+
+It is math…. regardless of the school, it can be incredibly challenging because of the need to be able to visualize proofs and the direction a solution requires. Whether you are at Princeton, the University of Utah, CalTech, Purdue, MIT or Carleton, you need the ability to prove theorems, wrap your mind around the architecture of a solution, and be able to discuss the mechanics of a proof and/or solution with other people equally hardwired to know where to direct their focus. There are ridiculously bright people everywhere in this country, and they will all challenge your limits
+
+They use the new math there which is hard to grasp. No ten in it so you have to learn how to count again from scratch.
+
+There's one basic governing principle in academic research universities. Researchers like to work with other good researchers in their field so a good department is one with good researchers and it stays good as long as the structural factors (support, admin, housing, working conditions, tenure considerations, sharing of licensing and patent income) remain in place because those good researchers will attract other good researchers. That's why Turing, Einstein, von Neumann, and so forth and so on, came to Princeton to do their doctoral research and/or came to stay to do academic research. Princeton has had a good math department since the establishment of the Institute for Advanced Studies just before WWII and the symbiosis between the Math Deparment and the IAS has continued to maintain the world's highest ranked group to this day.
+
+

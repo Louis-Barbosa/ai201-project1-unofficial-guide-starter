@@ -1,0 +1,25 @@
+Hi!
+
+I’m an incoming freshman trying to decide which math course to take. I’m currently considering a PHY/MAT/ORFE major
+
+For some background, I’ve self-studied multivariable calculus, linear algebra, differential equations, and a bit of real analysis through MIT OCW
+
+I’m thinking about taking MAT 215 or MAT 216, but I’ve heard that MAT 216 is one of the most challenging freshman math courses in the country, and I’m not entirely sure if I’m prepared for it
+
+Would appreciate any advice or insights from those who’ve taken these courses!
+
+Thanks!
+
+MAT 215.
+If you want to consider MAT major, take MAT 215. MAT 203 would probably be the ideal starting course for you if you knew PHY were your major. For ORFE, MAT 215 is useful but doesn't help fulfill the BSE requirements (MAT 201/203 and MAT 202/204).
+
+Unless you have extensive proof-based math (at the level of MAT 215 and IMO camps), you should not be considering MAT 216. If you're not sure if you're prepared, you're not.
+I have a friend who had kind of the same background who took MAT 216, it was a pretty brutal time commitment, he did not get an amazing grade, but he loved it. As a student who has taken classes that I may not have had as much preparation as others, I would say only take it if you truly enjoy what you think it is going to teach (unless it is prereq, in which case 216 is not), if you think you love math, and want to be a math major, at least give it a shot, see if you can handle it first few weeks, talk to the other students, go to the office hours, and drop down if you need. If you stay, you might get an A, you might not, but grades arent as paramount here, do what you love.
+
+I do not have too much experience in upper level math, but in my case, I had a similar dilemma when I decided to take 208 as a freshman without 207 (and not a PHY major) without feeling that I had too much of a physics background as other people. Even though I did not do amazingly in 105 (B+), and my grades in the others are not finalized as of yet, I truly have enjoyed the physics that I have learned and grown as a student in a way other classes would not have made me, and it has opened doors to take more advanced classes in the future (as I imagine 216 would in your case)
+
+feel free to dm if you wanna know more, but dont stress the decision too much
+oh hey we have the same math background. I got the answer to take MAT 203 in my previous post
+216 is a little hard, but it is not what people chalk it up to be; you do not need to be super smart to do well in it. In my opinion it is easier than the higher level classes in the math department. The content can be poorly presented at times, and the problem sets are veryyyy long at times, this is one of the main sources of difficulty. If you want to prepare for the class, read some book on analysis (ie Abbott) and maybe something on linear algebra. Also, only take it if you’re actually interested in it (does not imply you have to be a math major), it’s going to be a slogfest if you don’t care about pure mathematics.
+MAT 216 pill
+

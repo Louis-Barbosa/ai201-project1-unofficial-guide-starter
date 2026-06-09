@@ -1,0 +1,191 @@
+MAT 100
+Calculus Foundations
+Introduction to limits and derivatives as preparation for further courses in calculus. Fundamental functions (polynomials, rational functions, exponential, logarithmic, trigonometric) and their graphs will be also reviewed. Other topics include tangent and normal lines, linearization, computing area and rates of change. The emphasis will be on learning to think independently and creatively in the mathematical setting.
+
+MAT 103
+Calculus I
+First semester of calculus. Topics include limits, continuity, the derivative, basic differentiation formulas and applications (curve-sketching, optimization, related rates), definite and indefinite integrals, the fundamental theorem of calculus. Prerequisite: MAT100 or equivalent.
+
+MAT 104
+Calculus II
+Continuation of MAT103. Topics include techniques of integration, arclength, area, volume, convergence of series and improper integrals, L’Hopital’s rule, power series and Taylor’s theorem, introduction to differential equations and complex numbers. Prerequisite: MAT103 or equivalent.
+
+MAT 175
+Mathematics for Economics/Life Sciences
+Survey of topics from multivariable calculus as preparation for future course work in economics or life sciences. Topics include basic techniques of integration, average value, vectors, partial derivatives, gradient, optimization of multivariable functions, and constrained optimization with Lagrange multipliers. Students preparing for math track econometrics and finance courses need MAT201/202 instead. Students who complete 175 can continue in 202 if they wish.
+
+EGR 191/MAT 191/PHY 191
+An Integrated Introduction to Engineering, Mathematics, Physics
+Taken concurrently with EGR/MAT/PHY 192. An integrated course that covers the material of PHY 103 and MAT 201 with the emphasis on applications to engineering. Physics topics include: mechanics with applications to fluid mechanics, wave phenomena, and thermodynamics. The lab revolves around a single project to build, launch, and analyze the flight dynamics of water-propelled rockets. One lecture, three preceptorials, one three-hour laboratory.
+
+EGR 192/APC 192/MAT 192/PHY 192
+An Integrated Introduction to Engineering, Mathematics, Physics
+Taken concurrently with EGR/MAT/PHY 191. An integrated course that covers the material of PHY 103 and MAT 201 with the emphasis on applications to engineering. Math topics include: vector calculus; partial derivatives and matrices; line integrals; simple differential equations; surface and volume integrals; and Green’s, Stokes’s, and divergence theorems. One lecture, two preceptorials.
+
+APC 199/MAT 199
+Math Alive
+Mathematics has profoundly changed our world, from the way we communicate with each other and listen to music, to banking and computers. This course is designed for those without college mathematics who want to understand the mathematical concepts behind important modern applications. The course consists of individual modules, each focusing on a particular application (e.g. compression, animation and using statistics to explain, or hide, facts). The emphasis is on ideas, not on sophisticated mathematical techniques, but there will be substantial problem-set requirements. Students will learn by doing simple examples.
+
+MAT 201
+Multivariable Calculus
+Vectors in the plane and in space, vector functions and motion, surfaces, coordinate systems, functions of two or three variables and their derivatives, maxima and minima and applications, double and triple integrals, vector fields, and Stokes’s theorem. Prerequisite: 104 or equivalent.
+
+MAT 202
+Linear Algebra with Applications
+Companion course to MAT201. Matrices, linear transformations, linear independence and dimension, bases and coordinates, determinants, orthogonal projection, least squares, eigenvectors and their applications to quadratic forms and dynamical systems. Prerequisite: MAT103 or equivalent.
+
+MAT 203
+Advanced Vector Calculus
+Vector spaces, limits, derivatives of vector-valued functions, Taylor’s formula, Lagrange multipliers, double and triple integrals, change of coordinates, surface and line integrals, generalizations of the fundamental theorem of calculus to higher dimensions. More abstract than 201 but more concrete than 216/218. Recommended for prospective physics majors and others with a strong interest in applied mathematics. Prerequisite: MAT104 or equivalent.
+
+MAT 204
+Advanced Linear Algebra with Applications
+Companion course to MAT203. Linear systems of equations, linear independence and dimension, linear transforms, determinants, (real and complex) eigenvectors and eigenvalues, orthogonality, spectral theorem, singular value decomposition, Jordan forms, other topics as time permits. More abstract than MAT202 but more concrete than MAT217. Recommended for prospective physics majors and others with a strong interest in applied mathematics. Prerequisite: MAT104 or equivalent.
+
+MAT 214
+Numbers, Equations, and Proofs
+An introduction to classical number theory to prepare for higher-level courses in the department. Topics include Pythagorean triples and sums of squares, unique factorization, Chinese remainder theorem, arithmetic of Gaussian integers, finite fields and cryptography, arithmetic functions, and quadratic reciprocity. There will be a topic from more advanced or more applied number theory such as p-adic numbers, cryptography, and Fermat’s Last Theorem. This course is suitable both for students preparing to enter the mathematics department and for non-majors interested in exposure to higher mathematics.
+
+MAT 215
+Single Variable Analysis with an Introduction to Proofs
+An introduction to the mathematical discipline of analysis, to prepare for higher-level course work in the department. Topics include the rigorous epsilon-delta treatment of limits, convergence, and uniform convergence of sequences and series. Continuity, uniform continuity, and differentiability of functions. The Heine-Borel theorem, the Riemann integral, conditions for integrability of functions and term by term differentiation and integration of series of functions, Taylor’s theorem.
+
+MAT 217
+Honors Linear Algebra
+A rigorous course in linear algebra with an emphasis on proof rather than applications. Topics include vector spaces, linear transformations, inner product spaces, determinants, eigenvalues, the Cayley-Hamilton theorem, Jordan form, the spectral theorem for normal transformations, bilinear and quadratic forms.
+
+MAT 218
+Multivariable Analysis and Linear Algebra II
+Continuation of Multivariable Analysis and Linear Algebra I (MAT 216) from the fall. A rigorous course in analysis with an emphasis on proof rather than applications. Topics include metric spaces, completeness, compactness, total derivatives, partial derivatives, inverse function theorem, implicit function theorem, Riemann integrals in several variables, Fubini. See the department website for details: www.math.princeton.edu.
+
+MAT 300
+Multivariable Analysis I
+Continuation of Single Variable Analysis (MAT215) and Honors Linear Algebra (MAT217) needed to prepare for further work in differential geometry, analysis and topology. Calculus on manifolds: Introduces the concept of differentiable manifold, develops the notions of vector fields and differential forms, Stokes’ theorem and the de Rham complex. The basic existence theorem in ODEs is used to prove the Frobenius theorem on integrability of plane fields. The intent is to provide the preparation for the courses in differential geometry and topology.
+
+PHI 323/MAT 306
+Set Theory
+An introduction to axiomatic set theory, up to the proof of the consistency of the axiom of choice. Prerequisite: some previous study of logic or mathematical maturity. Two 80-minute classes.
+
+MAT 320
+Introduction to Real Analysis
+Introduction to real analysis, including the theory of Lebesgue measure and integration on the line and n-dimensional space and the theory of Fourier series. Prerequisite: MAT201 and MAT202 or equivalent.
+
+APC 350/MAT 322
+Introduction to Differential Equations
+This course will introduce the basic theory, models and techniques for ordinary and partial differential equations. Emphasis will be placed on the connection with other disciplines of science and engineering. We will try to strike a balance between the theoretical (e.g. existence and uniqueness issues, qualitative properties) and the more practical issues such as analytical and numerical approximations. Prerequisites: Multivariable calculus and linear algebra.
+
+MAT 323/APC 323
+Topics in Mathematical Modeling
+Draws problems from the sciences and engineering for which mathematical models have been developed and analyzed to describe, understand and predict natural and man-made phenomena. Emphasizes model building strategies, analytical and computational methods, and how scientific problems motivate new mathematics. This interdisciplinary course in collaboration with Molecular Biology, Psychology and the Program in Neuroscience is directed toward upper class undergraduate students and first-year graduate students with knowledge of linear algebra and differential equations.
+
+MAT 325
+Analysis I: Fourier Series and Partial Differential Equations
+Basic facts about Fourier Series, Fourier Transformations, and applications to the classical partial differential equations will be covered. Also Fast Fourier Transforms, Finite Fourier Series, Dirichlet Characters, and applications to properties of primes. Prerequisites: 215, 218, or permission of instructor.
+
+MAT 330
+Complex Analysis with Applications
+The theory of functions of one complex variable, covering power series expansions, residues, contour integration, and conformal mapping. Although the theory will be given adequate treatment, the emphasis of this course is the use of complex analysis as a tool for solving problems. Prerequisite: MAT201 and MAT202 or equivalent.
+
+MAT 335
+Analysis II: Complex Analysis
+Study of functions of a complex variable, with emphasis on interrelations with other parts of mathematics. Cauchy’s theorems, singularities, contour integration, power series, infinite products. The gamma and zeta functions and the prime number theorem. Elliptic functions, theta functions, Jacobi’s triple product and combinatorics. An overall view of Special Functions via the hypergeometric series. This course is the second semester of a four-semester sequence, but may be taken independently of the other semesters.
+
+MAT 345
+Algebra I
+This course will cover the basics of symmetry and group theory, with applications. Topics include the fundamental theorem of finitely generated abelian groups, Sylow theorems, group actions, and the representation theory of finite groups, rings and modules.
+
+MAT 346
+Algebra II
+Continuation of MAT345. Further develop knowledge of algebraic structures by exploring examples that connect to higher mathematics.
+
+MAT 355
+Introduction to Differential Geometry
+Introduction to geometry of surfaces. Surfaces in Euclidean space, second fundamental form, minimal surfaces, geodesics, Gauss curvature, Gauss-Gonnet formula, uniformization of surfaces, elementary notions of contact geometry. Prerequisite: MAT218 or MAT300, or MAT203 or equivalent.
+
+MAT 365
+Topology
+Introduction to point-set topology, the fundamental group, covering spaces, methods of calculation and applications. Prerequisite: MAT202 or 204 or 218 or equivalent.
+
+MAT 375/COS 342
+Introduction to Graph Theory
+The fundamental theorems and algorithms of graph theory. Topics include: connectivity, matchings, graph coloring, planarity, the four-color theorem, extremal problems, network flows, and related algorithms. Prerequisite: MAT202 or 204 or 217 or equivalent.
+
+MAT 377/APC 377
+Combinatorial Mathematics
+Combinatorics is the study of enumeration and structure of discrete objects. These structures are widespread throughout mathematics, including geometry, topology and algebra, as well as computer science, physics and optimization. This course will give an introduction to modern techniques in the field, and how they relate to objects such as polytopes, permutations and hyperplane arrangements.
+
+MAT 378
+Theory of Games
+Games in extensive form, pure and behavioral strategies; normal form, mixed strategies, equilibrium points; coalitions, characteristic-function form, imputations, solution concepts; related topics and applications. Prerequisite: MAT202 or 204 or 217 or equivalent. MAT215 or equivalent is recommended.
+
+ORF 309/EGR 309/MAT 380
+Probability and Stochastic Systems
+An introduction to probability and its applications. Topics include: basic principles of probability; Lifetimes and reliability, Poisson processes; random walks; Brownian motion; branching processes; Markov chains. Prerequisite: MAT 201, 203, or 216. Three lectures, one precept.
+
+MAT 385
+Probability Theory
+Sequence of independent trials, applications to number theory and analysis, Monte Carlo method. Markov chains, ergodic theorem for Markov chains. Entropy and McMillan theorem. Random walks, recurrence and non-recurrence; connection with the linear difference equations. Strong laws of large numbers, random series and products. Weak convergence of probability measures, weak Helly theorems, Fourier transforms of distributions. Limit theorems of probability theory. Prerequisite: MAT203 or 218 or equivalent.
+
+MAE 305/CBE 305/EGR 305/MAT 391
+Mathematics in Engineering I
+An introduction to ordinary differential equations. Use of numerical methods. Equations of a single variable and systems of linear equations. Method of undermined coefficients and method of variation of parameters. Series solutions. Use of eigenvalues and eigenvectors. Laplace transforms. Nonlinear equations and stability; phase portraits. Partial differential equations via separation of variables. Sturm-Liouville theory. Three lectures. Prerequisites: MAT 201 or 203, and MAT 202 or 204.
+
+MAE 306/MAT 392
+Mathematics in Engineering II
+Solution of partial differential equations. Complex variable methods. Characteristics, orthogonal functions, and integral transforms. Cauchy-Riemann conditions and analytic functions, mapping, the Cauchy integral theorem, and the method of residues with application to inversion of transforms. Applications to diffusion, wave and Laplace equations in fluid mechanics and electrostatics. Three lectures, one preceptorial. Prerequisite: 305 or MAT 301 or equivalent.
+
+COS 487/MAT 407
+Theory of Computation
+Studies the limits of computation by identifying tasks that are either inherently impossible to compute, or impossible to compute within the resources available. Introduces students to computability and decidability, Godel’s incompleteness theorem, computational complexity, NP-completeness, and other notions of intractability. This course also surveys the status of the P versus NP question. Additional topics may include: interactive proofs, hardness of computing approximate solutions, cryptography, and quantum computation. Two lectures, one precept. Prerequisite: 240 or instructor’s permission.
+
+MAT 419
+Topics in Geometry and Number Theory
+Topics at the intersection of number theory and geometry, including quadratic forms and elliptic curves. See Course Offerings listing for topic details. Prerequisites: MAT 215, 345, 346 or equivalent.
+
+MAT 425
+Analysis III: Integration Theory and Hilbert Spaces
+The theory of Lebesgue integration in n-dimensional space. Differentiation theory. Hilbert space theory and applications to Fourier Transforms, and partial differential equations. Introduction to fractals. This course is the third semester of a four-semester sequence, but may be taken independently of the other semesters. Prerequisites: MAT215 or 218 or equivalent.
+
+MAT 427
+Ordinary Differential Equations
+Introduction to the study of ordinary differential equations; explicit solutions, general properties of solutions, and applications. Topics include explicit solutions of some non-linear equations in two variables by separation of variables and integrating factors, explicit solution of simultaneous linear equations with constant coefficients, explicit solution of some linear equations with variable forcing term by Laplace transform methods, geometric methods (description of the phase portrait), and the fundamental existence and uniqueness theorem.
+
+MAT 429
+Topics in Analysis
+Introduction to incompressible fluid dynamics. The course will give an introduction to the mathematical theory of the Euler equations, the fundamental partial differential equation arising in the study of incompressible fluids. We will discuss several topics in analysis that emerge in the study of these equations: Lebesgue and Sobolev spaces, distribution theory, elliptic PDEs, singular integrals, and Fourier analysis. Content varies from year to year. See Course Offerings listing for topic details.
+
+MAT 449
+Topics in Algebra
+Topics in algebra selected from areas such as representation theory of finite groups and the theory of Lie algebras. Prerequisite: MAT 345 or MAT 346.
+
+MAT 459
+Topics in Geometry
+Elements of smooth manifold theory, tensors, and differential forms, Riemannian metrics, connection and curvature; selected applications to Hodge theory, curvature in topology and general relativity.
+
+COS 433/MAT 473
+Cryptography
+An introduction to the theory of modern cryptography. Topics covered include private key and public key encryption schemes, digital signatures, pseudorandom generators and functions, zero-knowledge proofs, and some advanced topics. Prerequisites: COS 240 is a required prerequisite or equivalent proof-based mathematical maturity. Two lectures.
+
+COS 488/MAT 474
+Introduction to Analytic Combinatorics
+Analytic Combinatorics aims to enable precise quantitative predictions of the properties of large combinatorial structures. The theory has emerged over recent decades as essential both for the scientific analysis of algorithms in computer science and for the study of scientific models in many other disciplines. This course combines motivation for the study of the field with an introduction to underlying techniques, by covering as applications the analysis of numerous fundamental algorithms from computer science. The second half of the course introduces Analytic Combinatorics, starting from basic principles.
+
+MAT 478
+Topics In Combinatorics
+This course will cover topics in Extremal Combinatorics including ones motivated by questions in other areas like Computer Science, Information Theory, Number Theory and Geometry. The subjects that will be covered include Graph powers, the Shannon capacity and the Witsenhausen rate of graphs, Szemeredi’s Regularity Lemma and its applications in graph property testing and in the study of sets with no 3 term arithmetic progressions, the Combinatorial Nullstellensatz and its applications, the capset problem, Containers and list coloring, and related topics as time permits.
+
+MAT 486
+Random Processes
+Wiener measure. Stochastic differential equations. Markov diffusion processes. Linear theory of stationary processes. Ergodicity, mixing, central limit theorem for stationary processes. If time permits, the theory of products of random matrices and PDE with random coefficients will be discussed. Prerequisite: MAT385.
+
+PHY 403/MAT 493
+Mathematical Methods of Physics
+Mathematical methods and techniques that are essential for modern theoretical physics. Topics such as group theory, Lie algebras, and differential geometry are discussed and applied to concrete physical problems. Special attention will be given to mathematical techniques that originated in physics, such as functional integration and current algebras. Three classes. Prerequisite: MAT 330 or instructor’s permission.
+
+MAT 498
+Senior Thesis I (Year-Long)
+The senior thesis (498-499) is a year-long project in which students complete a substantial piece of research and scholarship under the supervision and advisement of a Princeton faculty member. While a year-long thesis is due in the student’s final semester of study, the work requires sustained investment and attention throughout the academic year.
+
+MAT 499
+Senior Thesis II (Year-Long)
+The senior thesis (498-499) is a year-long project in which students complete a substantial piece of research and scholarship under the supervision and advisement of a Princeton faculty member. While a year-long thesis is due in the student’s final semester of study, the work requires sustained investment and attention throughout the academic year.

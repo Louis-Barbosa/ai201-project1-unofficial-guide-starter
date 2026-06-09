@@ -24,7 +24,7 @@
 | 2 |Princeton |MAT major requirments | https://www.math.princeton.edu/undergraduate/requirements|
 | 3 |Princeton | MAT courses available | https://www.princeton.edu/academics/area-of-study/mathematics|
 | 4 |Quora |MAT major typical four years |https://www.quora.com/For-a-pure-math-major-at-Princeton-what-is-a-typical-four-year-course-structure|
-| 5 |Reddit |Opions on Math Major at Princeton |https://www.reddit.com/r/princeton/comments/6577md/the_math_major_at_princeton/|
+| 5 |Reddit |Opinions on Math Major at Princeton |https://www.reddit.com/r/princeton/comments/6577md/the_math_major_at_princeton/|
 | 6 |Reddit |MAT placement exam |https://www.reddit.com/r/princeton/comments/1s16ny8/math_placement/ |
 | 7 |Quora|Opinion on MAT major difficulty |https://www.quora.com/What-is-it-like-to-study-mathematics-at-Princeton |
 | 8 |Quora|Difficulty of Math Major |https://www.quora.com/How-hard-is-it-to-be-a-math-major-at-Princeton |
@@ -42,7 +42,7 @@
 
 **Chunk size:** My chunking size will be 300-500 characters, likely being 400 to find a good inbetween. This is because most of my sources are short form responses through web forums so larger chunks could make the scope of retrieval too large and have unrelated content included.
 
-**Overlap:** 100 - 125 characters. My overlap range will be about 100-125 characters, this is so that general flow of ideas are well maintained, but small enought that it doesn't contribute to bad retrieval.
+**Overlap:** 100 - 125 characters. My overlap range will be about 100-125 characters, this is so that general flow of ideas are well maintained, but small enought that it doesn't contribute to bad retrieval. -> Increasing the overlap as to minimize the fragmentation a bit more
 
 **Reasoning:** These values were chosen since I am using mainly short forums to get my information. Since many of these are smaller, short form responses the larger responses will only lead to poor retrieval and then bad responses. 
 
