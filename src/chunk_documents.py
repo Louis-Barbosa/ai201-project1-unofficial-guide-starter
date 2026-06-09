@@ -201,7 +201,7 @@ def drop_cross_document_boilerplate(cleaned: dict[str, str],
 # --------------------------------------------------------------------------- #
 # Chunking — split cleaned text into small overlapping pieces.
 # --------------------------------------------------------------------------- #
-def chunk_text(text: str, size: int = 400, overlap: int = 175) -> list[str]:
+def chunk_text(text: str, size: int = 900, overlap: int = 250) -> list[str]:
     """Split ``text`` into ~``size``-char chunks that overlap by ~``overlap`` chars.
 
     How it works (a sliding window):
@@ -373,9 +373,9 @@ def main() -> None:
                         help="folder of .txt documents (default: documents/)")
     parser.add_argument("--out", type=Path, default=DEFAULT_OUT,
                         help="output JSON path (default: chunks.json)")
-    parser.add_argument("--size", type=int, default=400,
+    parser.add_argument("--size", type=int, default=700,
                         help="chunk size in characters (default: 400)")
-    parser.add_argument("--overlap", type=int, default=110,
+    parser.add_argument("--overlap", type=int, default=250,
                         help="overlap between chunks in characters (default: 110)")
     parser.add_argument("--preview", type=int, default=5,
                         help="print the first N chunks (default: 5, use 0 to skip)")
