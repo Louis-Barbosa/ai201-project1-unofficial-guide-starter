@@ -14,8 +14,8 @@ WHAT THIS SCRIPT DOES (the big picture)
 
 CHUNKING STRATEGY (from planning.md)
 ------------------------------------
-    chunk size : ~400 chars (allowed range 300-500)
-    overlap    : ~110 chars (allowed range 100-125)
+    chunk size : ~700 chars
+    overlap    : ~250 chars
 Why: most sources are short-form forum responses, so small chunks keep the
 retrieval scope tight, while the overlap keeps the flow of ideas across cuts.
 
@@ -201,7 +201,7 @@ def drop_cross_document_boilerplate(cleaned: dict[str, str],
 # --------------------------------------------------------------------------- #
 # Chunking — split cleaned text into small overlapping pieces.
 # --------------------------------------------------------------------------- #
-def chunk_text(text: str, size: int = 900, overlap: int = 250) -> list[str]: #this exists so that if there aren't any arguments called, it will default to the chunk size and overlap that we have found to be best for our data. There can easily be overriding arguments passed in if we want to experiment with different chunk sizes and overlaps, but this way we have a good default to start with. To check what currently override it check lines 376 and 378.
+def chunk_text(text: str, size: int = 700, overlap: int = 250) -> list[str]: #this exists so that if there aren't any arguments called, it will default to the chunk size and overlap that we have found to be best for our data. There can easily be overriding arguments passed in if we want to experiment with different chunk sizes and overlaps, but this way we have a good default to start with. To check what currently override it check lines 376 and 378.
     """Split ``text`` into ~``size``-char chunks that overlap by ~``overlap`` chars.
 
     How it works (a sliding window):
@@ -264,8 +264,8 @@ def load_documents(docs_dir: Path) -> dict[str, str]:
 
 
 def build_chunks(docs_dir: Path = DOCS_DIR,
-                 size: int = 400,
-                 overlap: int = 110) -> list[dict]:
+                 size: int = 700,
+                 overlap: int = 250) -> list[dict]:
     """Run the full pipeline and return a flat list of chunk records.
 
     Each record is a dict with: id, source, chunk_index, char_count, text.
@@ -374,9 +374,9 @@ def main() -> None:
     parser.add_argument("--out", type=Path, default=DEFAULT_OUT,
                         help="output JSON path (default: chunks.json)")
     parser.add_argument("--size", type=int, default=700, #here is the default chunk size, this may be changed depending on results. 
-                        help="chunk size in characters (default: 400)")
+                        help="chunk size in characters (default: 700)")
     parser.add_argument("--overlap", type=int, default=250, #here is the default chunk overlap, this may be changed depending on results. 
-                        help="overlap between chunks in characters (default: 110)")
+                        help="overlap between chunks in characters (default: 250)")
     parser.add_argument("--preview", type=int, default=5,
                         help="print the first N chunks (default: 5, use 0 to skip)")
     parser.add_argument("--show", nargs="?", const="", default=None, metavar="DOC",
