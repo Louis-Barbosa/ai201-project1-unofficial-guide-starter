@@ -160,12 +160,12 @@ One way that my implementation divered from the spec was that I needed to change
 
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* I used Claude by giving it my Chunking Strategy which I planned out in my planning.md. I asked it to implement a script that would take the documents in my document folder and then chunk it using the values found in my Chunking Strategy. I also asked it to print out the first 5 chunks produced and tell me how many characters were in each chunk that was printed. 
+- *What it produced:* It produced a script called chunk_document.py that would read the scripts and then print out the first 5 chunks along with their character count. 
+- *What I changed or overrode:* I changed the values for chunking and overlapping since it was too small before and had fragmentation. 
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* I used Claude to use my Embedding Strategy from my planning.md. I also asked it to create the script using the specifications that I had planned out and then also told it to use ChromaDB and to explain it to me so that I could understand how it functioned. 
+- *What it produced:* It produced an explanation of ChromaDB and then also created the embed_and_store.py script. It also gave me a detailed explanation of how the script worked. 
+- *What I changed or overrode:* I mainly made changes on the cosine similarity, asking it to implement it so that it works with intuition. This made it much easier to be shown and explained. I also further prompted it to build a script that would also help me test out the embedding system to ensure that it worked. It would use a question and then also print out the top 5 with similarity values shown. 
