@@ -9,11 +9,10 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
+<!-- What topic or category of knowledge does your system cover? 
+This system is covering information about Princeton's Math Major/Department. This information is valuable because Princeton is both known for it's math department and this is focusing on people's experiences with math at princeton. This allows people to know whether this is a major they want to pursue or thoughts on whether math at Princeton is a good fit for them. 
      Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
-
+     This knowledge is valuable because it specifically focuses on other peoples experiences and thoughts. This is extremely important because a school will simply try to sell themselves best but by hearing from students/alumni you can get authentic experiences or information you'd only get from going to Princeton. 
 ---
 
 ## Document Sources
@@ -24,16 +23,16 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 |Princeton |Description of Math major from the school; while official this is useful in filling in information about what is needed which can be helpful in explaining certain context of students experiences |https://www.math.princeton.edu/undergraduate/majors/overview|
+| 2 |Princeton |MAT major requirments; this is useful as it once again provides context for some of what students/alumni say about the course work; official| https://www.math.princeton.edu/undergraduate/requirements|
+| 3 |Princeton | MAT courses available; this is useful as it once again provides context for some of what students/alumni say about the course work and can provide context of what the course covers; official | https://www.princeton.edu/academics/area-of-study/mathematics|
+| 4 |Quora |MAT major typical four years; This shows the typical workload a students will take over their four years as a math major; web forum; |https://www.quora.com/For-a-pure-math-major-at-Princeton-what-is-a-typical-four-year-course-structure|
+| 5 |Reddit |Opinions on Math Major at Princeton; This covers a broad range from difficulty of the work to comparisons to other institutions; forum |https://www.reddit.com/r/princeton/comments/6577md/the_math_major_at_princeton/|
+| 6 |Reddit |MAT placement exam; talks about a part of princeton's first year experience in regards to the first math course you take |https://www.reddit.com/r/princeton/comments/1s16ny8/math_placement/ |
+| 7 |Quora|Opinion on MAT major difficulty; forum; talks about the Majors difficulty and challegnes |https://www.quora.com/What-is-it-like-to-study-mathematics-at-Princeton |
+| 8 |Quora|Difficulty of Math Major; this also talks about the majors difficulty and challenges faced; forum |https://www.quora.com/How-hard-is-it-to-be-a-math-major-at-Princeton |
+| 9 |Quora |Quality of Princeton Math Department; forum; talks about the quality of the math department and has some comparisons to peer institutions |https://www.quora.com/How-good-is-Princeton-at-math |
+| 10 |Quora |Comparing Princeton Math to other Universities; forum; Compares princeton math to peer institutions |https://www.quora.com/For-a-math-major-which-school-is-better-MIT-Princeton-or-Harvard |
 
 ---
 
@@ -46,13 +45,16 @@
      - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
      - What your final chunk count was across all documents -->
 
-**Chunk size:**
+**Chunk size:** 
+My initial chunk size was 400 however this was too small and was switched to 700 characters. So chunk size is 700.
 
-**Overlap:**
+**Overlap:** 
+My initial chunk overlap size was 110 however this was later switched to 250 characters. So the overlap size is 250.
 
-**Why these choices fit your documents:**
+**Why these choices fit your documents:** 
+Initially the values 400 and 110 was used for chunk size and overlap size respectively in the documents. However this was later switched to 700 and 250 to avoid fragmentation. These fit the documents well since the documents consist of smaller paragraphs since the information is being derived from a forum. This means that having a relatively small chunk size will ensure that only one idea, typically a sentence, is kept in a chunk. However if it was too small, which I saw with the initial values then there would be fragmentation as the chunk will not have an entire sentence kept within it. 
 
-**Final chunk count:**
+**Final chunk count:** The final chunk count was 174. This was a good amount of chunks that allowed the embedding model to produce good vectors and choose appropriate chunks. 
 
 ---
 
