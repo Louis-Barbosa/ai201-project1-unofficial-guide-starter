@@ -66,9 +66,10 @@ Initially the values 400 and 110 was used for chunk size and overlap size respec
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:**
+**Embedding model:** I'll be using the all-MiniLM-L6 via sentence-transformers. I chose this because it's considered to be highly efficient, considerably lightweight, free, and for this sort of project could do all the work I need it to do relatively quickly. Using a different modle would be more expensive and while this may increase the efficienty and speed that isn't needed here. 
 
 **Production tradeoff reflection:**
+If cost was not an issue I would considered accuracy on domain-specific text and context length over anything else. I would want to focus more on having more infomration and ensuring that it is very specific. These two would ensure that the accuracy is better. 
 
 ---
 
@@ -81,9 +82,9 @@ Initially the values 400 and 110 was used for chunk size and overlap size respec
      Do not just say "I told it to use the documents" — show the actual instruction or explain
      the mechanism. -->
 
-**System prompt grounding instruction:**
+**System prompt grounding instruction:** The instructions that I gave the model was "My RAG pipeline is already implemented through the first four stages: 1. Document ingestion from the collected URLs 2. Chunking using the parameters defined in my planning document 3. Embedding generation and vector store creation 4. Retrieval using Top-K = 5 I want you to generate the code for the final two components of the pipeline: 5. Grounded answer generation using an LLM 6. A user-facing query interface The generation stage must use Groq's `llama-3.3-70b-versatile` model. Initialize the client using: ```python from groq import Groq ``` and load the `GROQ_API_KEY` from the `.env` file. The system must be fully grounded in the retrieved context. Retrieved chunks should be passed to the model as context, and the prompt should explicitly instruct the model to answer using only the provided documents. If the retrieved context does not contain enough information to answer the question, the model must respond exactly: "I don't have enough information on that." The prompt should strongly discourage hallucination by instructing the model not to use outside knowledge, make assumptions, or generate unsupported information. The output format should include: * A grounded answer generated from the retrieved chunks * Source attribution identifying which document(s) were used Source attribution should be programmatically guaranteed rather than relying solely on the model. Append the retrieved source filenames after generation and return them separately in the response structure. Responses should resemble the following style: "According to student reviews of Professor Smith (source: rmp_smith_reviews.txt), exams are heavily curved and focus on lecture material rather than the textbook. Several reviewers specifically recommend attending every class." The answer should always be traceable to the retrieved text and accompanied by source citations. Please generate a complete `query.py` implementation containing an end-to-end `ask(question)` function that: * Retrieves the top 5 chunks * Builds the context string * Sends the context and question to Groq * Returns a dictionary containing: * `answer` * `sources` Also generate a Gradio interface in `app.py`. Use: ```python import gradio as gr from query import ask ``` The interface should contain: * A textbox for entering a question * An Ask button * An Answer output box * A Retrieved Sources output box The UI should display the generated answer separately from the source list. The source list should be formatted from the returned `sources` field. The final system should support the following flow: User Question → Retrieval (Top-K=5) → Context Construction → Groq Generation → Answer + Source Attribution → Gradio Interface Ensure the generated code is complete, runnable, and follows best practices for a grounded RAG application." 
 
-**How source attribution is surfaced in the response:**
+**How source attribution is surfaced in the response:** Source attribution appeared in the response in parentheses next to information it was gathered from. So for example it would give a piece of information and then name the document it got it from (document.txt) and then continue to generate it's response. 
 
 ---
 
